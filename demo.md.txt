@@ -1,8 +1,7 @@
-This is my first line.
+This is my first line!
 This is my second line!!
-This is third one.
+This is third one!
 
-<<<<<<< HEAD
-This is a fourth line!!!!This is it.
+This is a fourth line!!!!This is it!
 
-Edited by Nikhhil.
+Edited by Nikhhil!
